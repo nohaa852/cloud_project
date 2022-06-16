@@ -1,0 +1,5 @@
+# Env
+ENV: dev
+
+# SQS QUEUES
+SQS_NEW_ORDER_ARN: arn:aws:sqs:us-east-1:655605368214:trans-queue
